@@ -1,4 +1,4 @@
-# Stepin_Librarymanagmentsystem
+# Library Managment System
 
 
 # BADGES
@@ -39,14 +39,4 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 |:----|:---|:-------|:------------|:--------------|:--------------|:---------------------|
 |99005627|AALLA SONIKA|LIBRARY MANAGEMENT SYSTEM(ADD,SEARCH,ISSUE,DEL,VIEW)|3|3|5|5|
 
-# Challenges Faced and How Was It Overcome
-1.I have faced issues in file handling. so, I used strings.
 
-2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
-
-# Learning Resources
-1.Tutorials point
-
-2.Geeksforgeeks
-
-3.future skills
